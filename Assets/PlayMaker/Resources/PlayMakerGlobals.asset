@@ -39,3 +39,7 @@ MonoBehaviour:
   events:
   - Hide
   - Show
+  - Turn_On
+  - Click
+  - Turn_Off
+  - Process
