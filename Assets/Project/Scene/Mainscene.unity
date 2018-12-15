@@ -212,7 +212,7 @@ Camera:
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1539933622045610, guid: eb3dcc728a39d32498f8da200d183fea,
     type: 2}
-  m_PrefabInternal: {fileID: 1437221227}
+  m_PrefabInternal: {fileID: 1669482114}
 --- !u!1 &1233457656
 GameObject:
   m_ObjectHideFlags: 0
@@ -317,7 +317,7 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf498fc35b538884db557f7a9a2c0ef9, type: 2}
   m_IsPrefabAsset: 0
---- !u!1001 &1437221227
+--- !u!1001 &1669482114
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
